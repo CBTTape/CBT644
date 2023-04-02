@@ -1,0 +1,19 @@
+2023-04-03 01:39:08.900824 - Initialized conversion of CBT644
+2023-04-03 01:39:09.033467 - Received CBT.V504.FILE644.PDS from FILE644.XMI 
+2023-04-03 01:39:09.036492 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:39:09.037601 - Found $$DEFDOC.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$$DEFDOC
+2023-04-03 01:39:09.038717 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:39:09.039846 - Found $$README.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$$README
+2023-04-03 01:39:09.040963 - Found $ART.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$ART
+2023-04-03 01:39:09.043256 - De-xmi-ed $MSWORD to CBT644/docs/$MSWORD.doc
+2023-04-03 01:39:09.044656 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/$PDSLOAD
+2023-04-03 01:39:09.045924 - Found @FILE644.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/@FILE644
+2023-04-03 01:39:09.047032 - Found CNTL.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/CNTL
+2023-04-03 01:39:09.048101 - Found INSTALL.jcl (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/INSTALL
+2023-04-03 01:39:09.049324 - Found INSTAL03.jcl (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/INSTAL03
+2023-04-03 01:39:09.050490 - Found ISPMLIB.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/ISPMLIB
+2023-04-03 01:39:09.051600 - Found ISPPLIB.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/ISPPLIB
+2023-04-03 01:39:09.052822 - Found ISPSLIB.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/ISPSLIB
+2023-04-03 01:39:09.058833 - Found PDSLOAD.xmi (application/xmit) in CBT.V504.FILE644.PDS
+2023-04-03 01:39:09.066774   - Received RECFM=U data, stored XMIT file as CBT644/PDSLOAD.xmi
+2023-04-03 01:39:09.067859 - Found SYSEXEC.txt (text/plain) in CBT.V504.FILE644.PDS, moved to PDS/SYSEXEC
